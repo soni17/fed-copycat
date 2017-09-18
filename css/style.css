@@ -1,0 +1,48 @@
+}
+
+html{
+  font-family: arial,serif;
+}
+
+header{
+  background-color: #06D6A0;
+  padding:18px;
+  font-size:9px;
+  overflow: hidden;
+}
+
+header h1{
+  color:white;
+  display: inline-block;
+  float:left;
+}
+
+header div{
+  display:inline-block;
+  float:right;
+  font-size:19px;
+}
+
+header a {
+  margin-left:10px;
+}
+
+main{
+  width:900px;
+  margin: 0 auto;
+  font-family: 'helvetica neue', helvetica;
+}
+
+main h2{
+  font-size:22.5px;
+  padding: 55px 20px 20px 20px;
+}
+
+main p{
+  font-size:19.2px;
+  padding: 0px 20px 20px 20px;
+}
+
+main section{
+  padding-bottom:25px;
+}
